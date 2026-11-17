@@ -14,3 +14,8 @@ are indicative only and are not an official plan.
 
 This is frozen release **v1**. Later versions will be published at separate
 paths, so this link never changes.
+
+## Versions
+
+- [v1](./) — frozen, never changes.
+- [v2](./v2/) — latest.

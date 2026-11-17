@@ -9,7 +9,7 @@ It is one self-contained page: nothing is loaded from anywhere else, so it
 looks and behaves the same every time.
 
 **Illustrative model.** Buildings and room layouts follow the project
-brochure's floor plans. The basement, site layout, clubhouse and landscaping
+brochure's floor plans. The ground-floor cellar, site layout, clubhouse and landscaping
 are indicative only and are not an official plan.
 
 This is frozen release **v1**. Later versions will be published at separate
@@ -18,4 +18,5 @@ paths, so this link never changes.
 ## Versions
 
 - [v1](./) — frozen, never changes.
-- [v2](./v2/) — latest.
+- [v2](./v2/) — frozen, never changes.
+- [v3](./v3/) — latest.
